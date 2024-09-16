@@ -53,6 +53,7 @@ plugins:
   - roamlinks
   - blog
   - rss
+  - callouts
 
 extra_javascript:
   - javascripts/mathjax.js
